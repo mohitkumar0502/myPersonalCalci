@@ -1,1 +1,1 @@
-I have created this app for my basic learning of Kotlin and github. 
+I have created this app for my own learning of Kotlin and github. 
